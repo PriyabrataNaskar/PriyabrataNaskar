@@ -1,3 +1,5 @@
+<img src="https://github.com/PriyabrataNaskar/PriyabrataNaskar/blob/main/Github.gif" alt="Welcome!" width="100%"/>
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabrata-naskar/)
 ![](https://komarev.com/ghpvc/?username=PriyabrataNaskar&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
