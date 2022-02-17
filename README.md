@@ -15,13 +15,17 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 🤝 Looking out for roles as an <b>Android Developer</b> / <b>Software Development Enginner</b>.
 
-✅ <b>Site - </b> [https://hashincludebrain.blogspot.com/] 
+✅ <b>Site - </b> [Hash Include Brain: A Platform for DSA](https://hashincludebrain.blogspot.com/)
 
 📫 <b>Drop a mail at - </b> - [naskar.priyabrata66@gmail.com]
 
 ⚡ <b>Fun fact - </b> I can spend 1 Day in learning to automate a task that takes 5 min 😃
 
-🎉 <b>Recent projects - </b>[https://github.com/PriyabrataNaskar/Pigeon] [https://github.com/PriyabrataNaskar/DoctorAppointment]
+🎉 <b>Recent projects - </b> </br>
+
+<img alt="Pigeon" width="32px" src="https://github.com/PriyabrataNaskar/Pigeon/blob/master/app/src/main/res/raw/pigeon_splash_image.gif"/> &nbsp;&nbsp;[Pigeon: A Material Designing News App](https://github.com/PriyabrataNaskar/Pigeon)
+
+<img alt="Pigeon" width="32px" src="https://github.com/PriyabrataNaskar/DoctorAppointment/blob/master/app/src/main/res/drawable/logo.PNG"/> &nbsp;&nbsp;[Life: Doctor Appointment App in Android](https://github.com/PriyabrataNaskar/DoctorAppointment)
 
 ### Connect with me
 
