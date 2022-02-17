@@ -45,7 +45,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 ### Languages and Tools
 
-### <img align="left" alt="Android Development" width="32px" src="https://img.icons8.com/fluency/264/000000/android-os.png" />
+### <a href="https://g.dev/priyabrata"><img align="left" alt="Android Development" width="32px" src="https://img.icons8.com/fluency/264/000000/android-os.png" /></a>
 
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/200/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" alt="Kotlin" width="32px" src="https://img.icons8.com/color/264/000000/kotlin.png" />
