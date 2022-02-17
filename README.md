@@ -56,6 +56,8 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
  - #### If you like what I do, maybe consider buying me a coffee 👈
 
+---
+
 ### My GitHub Stats
 
 [![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyabrataNaskar)](https://github.com/anuraghazra/github-readme-stats)
@@ -72,7 +74,9 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 [youtube]: https://www.youtube.com/c/FANTASYANIME/
 [leetcode]: https://leetcode.com/PriyabrataNaskar/
 
-<img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="750"/>
+---
+
+<img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="100%"/>
 <!--
 **PriyabrataNaskar/PriyabrataNaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
