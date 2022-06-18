@@ -35,7 +35,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
   <img align="left" alt="Priyabrata's LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://wa.me/+919073159781">
-  <img align="left" alt="Priyabrata's WhatsApp" width="32px" src="https://github.com/PriyabrataNaskar/PriyabrataNaskar/blob/main/whatsapp.gif"/> </a>
+  <img align="left" alt="Priyabrata's WhatsApp" width="32px" height="32px" src="https://github.com/PriyabrataNaskar/PriyabrataNaskar/blob/main/whatsapp.gif"/> </a>
 <br />
 
 ### Competitive Profile
