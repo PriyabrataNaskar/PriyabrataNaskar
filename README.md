@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabrata-naskar/)
 ![](https://komarev.com/ghpvc/?username=PriyabrataNaskar&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a computer science grad from India ✔
+## I'm a computer science grad from India and Android Engineer @Semaai. Helping Indonesian Farmers by Revolutionizing Agri-Tech ✔
 
 I am a final year undergrad <b>Student</b> at the <b>University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
