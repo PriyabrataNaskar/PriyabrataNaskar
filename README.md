@@ -19,7 +19,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 ✅ <b>Site - </b> [Hash Include Brain: A Platform for DSA](https://hashincludebrain.blogspot.com/)
 
-📫 <b>Drop a mail at - </b> - [naskar.priyabrata66@gmail.com]
+📫 <b>Drop a mail at - </b> - [naskar.priyabrata66@gmail.com] . You can find my resume [here](https://drive.google.com/file/d/1eUCbdw7z972B9bnRk6L3MTy8XV1miAgc/view?usp=sharing)
 
 ⚡ <b>Fun fact - </b> I can spend 1 Day in learning to automate a task that takes 5 min 😃
 
