@@ -25,7 +25,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 🎉 <b>Recent projects - </b> </br>
 
-<img alt="Pigeon" width="32px" height="32px" src="https://github.com/PriyabrataNaskar/Pigeon/blob/master/app/src/main/res/raw/pigeon_splash_image.gif"/> &nbsp;&nbsp;[Pigeon: A Material Designing News App](https://github.com/PriyabrataNaskar/Pigeon)
+<img alt="Pigeon" width="32px" height="32px" src="https://github.com/PriyabrataNaskar/Pigeon/blob/master/app/src/main/res/raw/pigeon_splash_image.gif"/> &nbsp;&nbsp;[Pigeon: A Material Designing News App](https://github.com/PriyabrataNaskar/Pigeon-News-App)
 
 <img alt="Pigeon" width="32px" src="https://github.com/PriyabrataNaskar/DoctorAppointment/blob/master/app/src/main/res/drawable/logo.PNG"/> &nbsp;&nbsp;[Life: Doctor Appointment App in Android](https://github.com/PriyabrataNaskar/DoctorAppointment)
 
